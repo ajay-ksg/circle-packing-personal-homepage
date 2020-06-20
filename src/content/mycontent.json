@@ -1,11 +1,10 @@
 {
-	"Title": "Aditya Ketkar | Personal Webpage",
-	"Name": "Aditya Ketkar",
+	"Title": "Ajay Kumar | Personal Webpage",
+	"Name": "Ajay Kumar",
 	"Description": [
-		"Recent graduate from BITS Pilani. Passionate about Space Technology, Cognitive Modelling and Open Source.",
-		"I grab every chance I get to travel, learn and create."
+		"Working as Software Engineer 1 at Winshuttle , Chandigarh. ",
 	],
-	"MainImage": "https://i.imgur.com/yQZNGdm.jpg",
+	"MainImage": "https://imgur.com/KdQsbhT",
 	"BackgroundURL": "",
 
 	"AboutImage": "https://i.imgur.com/5sOLND6.jpg",
@@ -17,7 +16,7 @@
 	],
 
 	"WorkContent": [
-		"I am currently full time Software Developer Engineer at Microsoft."
+		"I am currently full time Software Developer Engineer at Winshuttle."
 	],
 	"WorkImage": "https://i.imgur.com/BHt1YKg.png",
 	"InternshipsStartLine": "Previously, I have interned with :",
